@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>90487B8F-C03C-434E-8154-718A7A80FCC9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>n-i-sock</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E6083925-52E0-4383-A39B-82F4F6EEEB3F</key>
+		<string>https://github.com/andreskwan/n-i-sock.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>n-i-sock.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E6083925-52E0-4383-A39B-82F4F6EEEB3F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/andreskwan/n-i-sock.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E6083925-52E0-4383-A39B-82F4F6EEEB3F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E6083925-52E0-4383-A39B-82F4F6EEEB3F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>n-i-sock</string>
+		</dict>
+	</array>
+</dict>
+</plist>
